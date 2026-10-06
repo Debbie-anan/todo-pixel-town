@@ -1,0 +1,286 @@
+{
+  "source": "https://web.picatown.com/",
+  "attribution": "皮卡堂 / 上海爱扑网络科技股份有限公司",
+  "items": [
+    {
+      "name": "草莓蛋糕床",
+      "type": 11207,
+      "resourceURL": "https://web.picatown.com/release/res/furni/db12b4ec00ad2db12d6d3656a9cc60f9_bed0040.zip"
+    },
+    {
+      "name": "草莓甜心床",
+      "type": 11704,
+      "resourceURL": "https://web.picatown.com/release/res/furni/6451b5866dffd0f6086cdb2abddd5814_bed0050.zip"
+    },
+    {
+      "name": "草莓蛋糕桌",
+      "type": 11213,
+      "resourceURL": "https://web.picatown.com/release/res/furni/617d075d52862ce24ef6f3185cab8cbb_tab0051.zip"
+    },
+    {
+      "name": "草莓甜心沙发",
+      "type": 12133,
+      "resourceURL": "https://web.picatown.com/release/res/furni/f70fbc59139e5d96017c210277071117_cha0196.zip"
+    },
+    {
+      "name": "草莓布丁凳",
+      "type": 12240,
+      "resourceURL": "https://web.picatown.com/release/res/furni/9e8ed96cdc5a30d0ad8ab28fa135d702_cha0227.zip"
+    },
+    {
+      "name": "草莓吧台凳",
+      "type": 12252,
+      "resourceURL": "https://web.picatown.com/release/res/furni/0d61f670b961ed5af3b581f6e5cfa408_cha0242.zip"
+    },
+    {
+      "name": "草莓盆景",
+      "type": 12259,
+      "resourceURL": "https://web.picatown.com/release/res/furni/22cfca918bad18ab482bc5247e44a6b7_pla0026.zip"
+    },
+    {
+      "name": "草莓圆毯",
+      "type": 12264,
+      "resourceURL": "https://web.picatown.com/release/res/furni/85198d6e8581f4ff9de6caa7b4850e3b_rug0126.zip"
+    },
+    {
+      "name": "草莓扣三层柜",
+      "type": 12714,
+      "resourceURL": "https://web.picatown.com/release/res/furni/9408f21d629b88447a20d985dfa17ecc_cab0140.zip"
+    },
+    {
+      "name": "草莓电冰箱",
+      "type": 12105,
+      "resourceURL": "https://web.picatown.com/release/res/furni/4ca56685ea95632d1cc992e6a20a5da3_ele0057.zip"
+    },
+    {
+      "name": "草莓甜心电视机",
+      "type": 12104,
+      "resourceURL": "https://web.picatown.com/release/res/furni/41f56f98ff1560ff5630badfeb14070f_ele0056.zip"
+    },
+    {
+      "name": "草莓茶具",
+      "type": 11939,
+      "resourceURL": "https://web.picatown.com/release/res/furni/cab0780168d03a628f074059b684f072_dec0251.zip"
+    },
+    {
+      "name": "粉色猫咪矮柜",
+      "type": 10340,
+      "resourceURL": "https://web.picatown.com/release/res/furni/2de3f402404b73ccd4523fb37ca15f3f_cab0023.zip"
+    },
+    {
+      "name": "粉色猫咪大柜",
+      "type": 10341,
+      "resourceURL": "https://web.picatown.com/release/res/furni/30fb132657b5f61040fd4d2917063fcd_cab0024.zip"
+    },
+    {
+      "name": "粉色猫咪椅",
+      "type": 10343,
+      "resourceURL": "https://web.picatown.com/release/res/furni/216b7aa8c52f01001c0b2f16ea868a08_cha0055.zip"
+    },
+    {
+      "name": "粉色猫咪圆桌",
+      "type": 10365,
+      "resourceURL": "https://web.picatown.com/release/res/furni/d9df18f8bee37e23cb2790dd6e6ea60a_tab0017.zip"
+    },
+    {
+      "name": "猫咪粉色床头柜",
+      "type": 10580,
+      "resourceURL": "https://web.picatown.com/release/res/furni/e11cbb4aeac8ced66f4e9da0b7a5de9a_cab0041.zip"
+    },
+    {
+      "name": "猫咪粉色双人沙发",
+      "type": 11069,
+      "resourceURL": "https://web.picatown.com/release/res/furni/a9887e9d44889f82e137cfcc64244f17_cha0101.zip"
+    },
+    {
+      "name": "猫咪音乐盒",
+      "type": 11794,
+      "resourceURL": "https://web.picatown.com/release/res/furni/b1406e0a25a55c3e08723c6c46da8510_lux0045.zip"
+    },
+    {
+      "name": "猫咪粉色单人沙发",
+      "type": 13537,
+      "resourceURL": "https://web.picatown.com/release/res/furni/c58bb890ccd33f35ce5fac492c008782_cha0396.zip"
+    },
+    {
+      "name": "猫咪粉色立式灯",
+      "type": 13538,
+      "resourceURL": "https://web.picatown.com/release/res/furni/fd6733daab527817009751578c9f0706_lig0441.zip"
+    },
+    {
+      "name": "粉色猫咪爪爪毯",
+      "type": 13543,
+      "resourceURL": "https://web.picatown.com/release/res/furni/600e3fa49e8d123de2683a7a634754f2_rug0182.zip"
+    },
+    {
+      "name": "松软蛋糕沙发",
+      "type": 15322,
+      "resourceURL": "https://web.picatown.com/release/res/furni/0bb79f65254c95ad87a87fbfa4256452_cha0675.zip"
+    },
+    {
+      "name": "棉花糖沙发",
+      "type": 15321,
+      "resourceURL": "https://web.picatown.com/release/res/furni/c6755f83f865c256b0f444c1687add0d_cha0674.zip"
+    },
+    {
+      "name": "四叶草原木床",
+      "type": 11859,
+      "resourceURL": "https://web.picatown.com/release/res/furni/2b03e162cd8a430e0db0a3de58d46c0d_bed0056.zip"
+    },
+    {
+      "name": "四叶草原木层柜",
+      "type": 11860,
+      "resourceURL": "https://web.picatown.com/release/res/furni/40aa67197bc95777f32ee6e52776c732_cab0095.zip"
+    },
+    {
+      "name": "四叶草原木沙发",
+      "type": 11863,
+      "resourceURL": "https://web.picatown.com/release/res/furni/46b42b389c4b882d95bcd8a6f564ffd6_cha0169.zip"
+    },
+    {
+      "name": "原木桌",
+      "type": 10281,
+      "resourceURL": "https://web.picatown.com/release/res/furni/f883838dd95c436377bf73533a475d7a_tab0014.zip"
+    },
+    {
+      "name": "星橙魔法书架",
+      "type": 12889,
+      "resourceURL": "https://web.picatown.com/release/res/furni/3528d1846b549acb1e297bd982554f20_cab0142.zip"
+    },
+    {
+      "name": "星橙魔法桌",
+      "type": 12911,
+      "resourceURL": "https://web.picatown.com/release/res/furni/e6f5ec839bcef9b6200ffd6eda00ed7d_tab0207.zip"
+    },
+    {
+      "name": "星紫魔法壶",
+      "type": 12897,
+      "resourceURL": "https://web.picatown.com/release/res/furni/75809b7c489ba844b6e6ee1a87d3b464_dec0490.zip"
+    },
+    {
+      "name": "魔法药水",
+      "type": 12894,
+      "resourceURL": "https://web.picatown.com/release/res/furni/d9343ede615881118f25c250cc60c1d9_dec0487.zip"
+    },
+    {
+      "name": "海洋台灯",
+      "type": 12035,
+      "resourceURL": "https://web.picatown.com/release/res/furni/bbe90d59357e63a186ee4c69e672e72c_lig0026.zip"
+    },
+    {
+      "name": "海洋之星双人床",
+      "type": 14928,
+      "resourceURL": "https://web.picatown.com/release/res/furni/7284b05e09bfd0a0fc54bf9f7277fa99_bed0183.zip"
+    },
+    {
+      "name": "海洋之星餐桌",
+      "type": 14930,
+      "resourceURL": "https://web.picatown.com/release/res/furni/b13cfa802bf43b996882589f99a0ec72_tab0250.zip"
+    },
+    {
+      "name": "梦幻海洋水族箱",
+      "type": 202063,
+      "resourceURL": "https://web.picatown.com/release/res/furni/af927b571bc61f215fa2934c8e8e6312_dec3425.zip"
+    },
+    {
+      "name": "复古碎花床",
+      "type": 16604,
+      "resourceURL": "https://web.picatown.com/release/res/furni/dff5073c7a00bcb03cca392cc8035caf_bed0260.zip"
+    },
+    {
+      "name": "复古碎花床头柜",
+      "type": 16605,
+      "resourceURL": "https://web.picatown.com/release/res/furni/b95e9913ed6bbb9423fe341cf01510ce_cab0735.zip"
+    },
+    {
+      "name": "复古杂物柜",
+      "type": 17782,
+      "resourceURL": "https://web.picatown.com/release/res/furni/4ca1e1dc5c673b09f0f1d4e658b6250c_she0138.zip"
+    },
+    {
+      "name": "复古铁通绿植",
+      "type": 18191,
+      "resourceURL": "https://web.picatown.com/release/res/furni/c71b0ecc014024e9d677a5dc89d5ceae_pla0213.zip"
+    },
+    {
+      "name": "木头窗",
+      "type": 10025,
+      "resourceURL": "https://web.picatown.com/release/res/furni/ffd8dae30bde0372bd5b7c93f2074f07_win0006.zip"
+    },
+    {
+      "name": "日式木质移窗",
+      "type": 10153,
+      "resourceURL": "https://web.picatown.com/release/res/furni/ce39f2baf01cbfcb7b1ace74d12e490b_win0009.zip"
+    },
+    {
+      "name": "蓝色小窗",
+      "type": 10367,
+      "resourceURL": "https://web.picatown.com/release/res/furni/a4875510deccd0894989d7ea61624494_win0011.zip"
+    },
+    {
+      "name": "粉色猫咪圆窗",
+      "type": 10368,
+      "resourceURL": "https://web.picatown.com/release/res/furni/33520535e1abb6ee77c4287826ad2a84_win0012.zip"
+    },
+    {
+      "name": "淡蓝玻璃门",
+      "type": 11219,
+      "resourceURL": "https://web.picatown.com/release/res/furni/46cef4d1ea4d91d9e8b4918109358770_blo0075.zip"
+    },
+    {
+      "name": "橙黄玻璃门",
+      "type": 11222,
+      "resourceURL": "https://web.picatown.com/release/res/furni/4b4a7755df00afbc1247b439554c5ef0_blo0078.zip"
+    },
+    {
+      "name": "葱绿玻璃门",
+      "type": 11231,
+      "resourceURL": "https://web.picatown.com/release/res/furni/bec2a1929ea179b695d92428ca33bf46_blo0087.zip"
+    },
+    {
+      "name": "绿地雅致墙纸",
+      "type": 14427,
+      "resourceURL": "https://web.picatown.com/release/res/furni/ed31fd3daf76cca33c58549549c2d128_wal0270.zip"
+    },
+    {
+      "name": "暗夜魔法墙纸",
+      "type": 14620,
+      "resourceURL": "https://web.picatown.com/release/res/furni/e544ccd02ded40426166eceddc6ed883_wal0287.zip"
+    },
+    {
+      "name": "暮色星空墙纸",
+      "type": 15363,
+      "resourceURL": "https://web.picatown.com/release/res/furni/b24d27833b780d5ba77a361c8367889e_wal0341.zip"
+    },
+    {
+      "name": "木质相框画",
+      "type": 10016,
+      "resourceURL": "https://web.picatown.com/release/res/furni/76b40d6d1181b8df3fd263f603ab7b9f_wal0001.zip"
+    },
+    {
+      "name": "PICA熊猫壁画",
+      "type": 10325,
+      "resourceURL": "https://web.picatown.com/release/res/furni/d1e53ad4e7c99d3efc3bb035c638791d_wal0036.zip"
+    },
+    {
+      "name": "长耳粉精灵",
+      "type": 1001,
+      "resourceURL": "https://web.picatown.com/release/res/npc/d75aa420d354132821e104476ed6194d_npc001.zip"
+    },
+    {
+      "name": "白帽子女巫",
+      "type": 1021,
+      "resourceURL": "https://web.picatown.com/release/res/npc/64bd4412df3c2498f7de61140adfd1b9_npc020.zip"
+    },
+    {
+      "name": "老翁",
+      "type": 1030,
+      "resourceURL": "https://web.picatown.com/release/res/npc/51605bfc3dc6c5f213fd76967869ae3d_npc030.zip"
+    },
+    {
+      "name": "百花仙子",
+      "type": 1053,
+      "resourceURL": "https://web.picatown.com/release/res/npc/2a4bc75e947820b351ad3d7bdb145a31_npc057.zip"
+    }
+  ]
+}
