@@ -282,5 +282,77 @@
       "type": 1053,
       "resourceURL": "https://web.picatown.com/release/res/npc/2a4bc75e947820b351ad3d7bdb145a31_npc057.zip"
     }
+  ],
+  "wardrobe": [
+    {
+      "type": 50001,
+      "name": "咖啡T恤",
+      "code": "f_clot001",
+      "part": "clot",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/408e7e5fd76feb6c5efa49df03c9af71_f_clot001.zip"
+    },
+    {
+      "type": 50018,
+      "name": "红色百褶裙",
+      "code": "f_pant001",
+      "part": "pant",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/894cfa4ffeb51c05e11945fb7e2b2d7d_f_pant001.zip"
+    },
+    {
+      "type": 50023,
+      "name": "牛仔中裙",
+      "code": "f_pant006",
+      "part": "pant",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/eaf61e8022cc93da0fcc384d9e6cc173_f_pant006.zip"
+    },
+    {
+      "type": 50065,
+      "name": "清爽OL",
+      "code": "f_hair001",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/34f5bb155c5d44c0d95d77afa243ed8b_f_hair001.zip"
+    },
+    {
+      "type": 50066,
+      "name": "粉红小可爱",
+      "code": "f_hair002",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/d43971a65c4e1d7d8f62f19939122627_f_hair002.zip"
+    },
+    {
+      "type": 50067,
+      "name": "蝴蝶结",
+      "code": "f_hair003",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/7a5f15d651df34b81eb93027ca1fbb8a_f_hair003.zip"
+    },
+    {
+      "type": 50405,
+      "name": "红色蝴蝶结",
+      "code": "u_mask020",
+      "part": "mask",
+      "url": "https://web.picatown.com/release/res/actorCostume/all/e942ea2f3c77df02d251e77f22e3af11_u_mask020.zip"
+    },
+    {
+      "type": 50406,
+      "name": "黄色蝴蝶结",
+      "code": "u_mask021",
+      "part": "mask",
+      "url": "https://web.picatown.com/release/res/actorCostume/all/28ca0b6281466e3ba2866b1b833fc817_u_mask021.zip"
+    },
+    {
+      "type": 50605,
+      "name": "长裙圣女",
+      "code": "f_cset091",
+      "part": "cset",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/fac8425c92412f5c62e6a556c5920793_f_cset091.zip"
+    },
+    {
+      "type": 50606,
+      "name": "短裙圣女",
+      "code": "f_cset092",
+      "part": "cset",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/e369e4250b8350c7942b8215161f0c45_f_cset092.zip"
+    }
   ]
 }
