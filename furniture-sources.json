@@ -353,6 +353,62 @@
       "code": "f_cset092",
       "part": "cset",
       "url": "https://web.picatown.com/release/res/actorCostume/girl/e369e4250b8350c7942b8215161f0c45_f_cset092.zip"
+    },
+    {
+      "type": 50068,
+      "name": "金色长发",
+      "code": "f_hair004",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/db54ed7e6a2a1a43a50b912ad56581b4_f_hair004.zip"
+    },
+    {
+      "type": 50112,
+      "name": "飘逸长发",
+      "code": "f_hair027",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/a4877be3f6a2c28b459a17894ccf01b1_f_hair027.zip"
+    },
+    {
+      "type": 50322,
+      "name": "清纯长发",
+      "code": "f_hair048",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/a7152a3686e98c0bf7f2da3cc4b5a04a_f_hair048.zip"
+    },
+    {
+      "type": 50897,
+      "name": "蓝莓芯长发",
+      "code": "f_hair139",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/57c71b909082ca34e4ec7e293e1c7d89_f_hair139.zip"
+    },
+    {
+      "type": 51201,
+      "name": "蔷薇长发",
+      "code": "f_hair210",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/2e6bfa823be4856edb7b7bec42ad3f2e_f_hair210.zip"
+    },
+    {
+      "type": 51254,
+      "name": "海洋波浪长发",
+      "code": "f_hair218",
+      "part": "hair",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/af1618f07211864b5a463cb456244e46_f_hair218.zip"
+    },
+    {
+      "type": 50004,
+      "name": "紫色吊带蛋糕衫",
+      "code": "f_clot004",
+      "part": "clot",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/8153ee844daa1fc787a1291d2677d855_f_clot004.zip"
+    },
+    {
+      "type": 53069,
+      "name": "草绿背心装",
+      "code": "f_clot070",
+      "part": "clot",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/dd3c3442cbf60ffbc094d2373df2410d_f_clot070.zip"
     }
   ]
 }

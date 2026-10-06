@@ -87,7 +87,7 @@ const wardrobeItems=[
     "asset": "wardrobe/f_hair001.png",
     "crop": {
       "x": 622,
-      "y": 161,
+      "y": 11,
       "w": 51,
       "h": 48
     }
@@ -106,9 +106,9 @@ const wardrobeItems=[
     "asset": "wardrobe/f_hair002.png",
     "crop": {
       "x": 629,
-      "y": 165,
+      "y": 15,
       "w": 41,
-      "h": 51
+      "h": 30
     }
   },
   {
@@ -125,7 +125,7 @@ const wardrobeItems=[
     "asset": "wardrobe/f_hair003.png",
     "crop": {
       "x": 626,
-      "y": 167,
+      "y": 17,
       "w": 45,
       "h": 44
     }
@@ -204,6 +204,158 @@ const wardrobeItems=[
       "y": 356,
       "w": 49,
       "h": 88
+    }
+  },
+  {
+    "name": "金色长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 50068,
+    "asset": "wardrobe/f_hair004.png",
+    "crop": {
+      "x": 629,
+      "y": 15,
+      "w": 44,
+      "h": 68
+    }
+  },
+  {
+    "name": "飘逸长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 50112,
+    "asset": "wardrobe/f_hair027.png",
+    "crop": {
+      "x": 632,
+      "y": 19,
+      "w": 35,
+      "h": 34
+    }
+  },
+  {
+    "name": "清纯长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 50322,
+    "asset": "wardrobe/f_hair048.png",
+    "crop": {
+      "x": 632,
+      "y": 16,
+      "w": 38,
+      "h": 42
+    }
+  },
+  {
+    "name": "蓝莓芯长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 50897,
+    "asset": "wardrobe/f_hair139.png",
+    "crop": {
+      "x": 624,
+      "y": 16,
+      "w": 51,
+      "h": 55
+    }
+  },
+  {
+    "name": "蔷薇长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 51201,
+    "asset": "wardrobe/f_hair210.png",
+    "crop": {
+      "x": 621,
+      "y": 14,
+      "w": 55,
+      "h": 41
+    }
+  },
+  {
+    "name": "海洋波浪长发",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "hair",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 51254,
+    "asset": "wardrobe/f_hair218.png",
+    "crop": {
+      "x": 601,
+      "y": 14,
+      "w": 96,
+      "h": 83
+    }
+  },
+  {
+    "name": "紫色吊带蛋糕衫",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "clot",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 50004,
+    "asset": "wardrobe/f_clot004.png",
+    "crop": {
+      "x": 636,
+      "y": 358,
+      "w": 27,
+      "h": 39
+    }
+  },
+  {
+    "name": "草绿背心装",
+    "w": 1,
+    "d": 1,
+    "pixels": 40,
+    "theme": "人物衣橱",
+    "kind": "wearable",
+    "part": "clot",
+    "official": true,
+    "source": "https://web.picatown.com/",
+    "originalType": 53069,
+    "asset": "wardrobe/f_clot070.png",
+    "crop": {
+      "x": 625,
+      "y": 356,
+      "w": 49,
+      "h": 42
     }
   }
 ];
