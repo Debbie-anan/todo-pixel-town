@@ -1,5 +1,5 @@
 (() => {
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').catch(console.warn);
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').then(async()=>{const registration=await navigator.serviceWorker.ready;registration.active?.postMessage({type:'CACHE_MEDIA'})}).catch(console.warn);
   if (matchMedia('(display-mode: standalone)').matches) return;
   let prompt;
   const bar=document.createElement('div');bar.className='install-bar';
