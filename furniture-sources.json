@@ -572,5 +572,227 @@
       "theme": "人物衣橱",
       "url": "https://web.picatown.com/release/res/actorCostume/girl/a0894d32256749204c7a2902718e42c7_f_clot003.zip"
     }
+  ],
+  "batch16": [
+    {
+      "type": 11565,
+      "name": "青花瓷",
+      "code": "dec0177",
+      "kind": "floor",
+      "theme": "中式雅居",
+      "gridW": 1,
+      "gridH": 1,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/0856556a7b174bb7eed7af70ab8383d2_dec0177.zip"
+    },
+    {
+      "type": 11915,
+      "name": "中式白漆床榻",
+      "code": "bed0059",
+      "kind": "floor",
+      "theme": "中式雅居",
+      "gridW": 3,
+      "gridH": 6,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/f4ef4e09fb2313e6f9b74b4ec18376ca_bed0059.zip"
+    },
+    {
+      "type": 11138,
+      "name": "心愿竹",
+      "code": "pla0009",
+      "kind": "floor",
+      "theme": "中式雅居",
+      "gridW": 4,
+      "gridH": 4,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/f4d2e6dc21b21250ef8410c58312e32e_pla0009.zip"
+    },
+    {
+      "type": 11919,
+      "name": "中式白漆古董架",
+      "code": "she0048",
+      "kind": "floor",
+      "theme": "中式雅居",
+      "gridW": 2,
+      "gridH": 3,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/63f085d6ca9cce1f7867cd27ecd37ce4_she0048.zip"
+    },
+    {
+      "type": 11883,
+      "name": "星际沙发",
+      "code": "cha0173",
+      "kind": "floor",
+      "theme": "星际未来",
+      "gridW": 3,
+      "gridH": 3,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/80b37ca97f3b22b15fe61615efd9f20b_cha0173.zip"
+    },
+    {
+      "type": 11885,
+      "name": "星际漂浮桌",
+      "code": "tab0080",
+      "kind": "floor",
+      "theme": "星际未来",
+      "gridW": 3,
+      "gridH": 5,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/f2b11f049b79547c186610ec61a52087_tab0080.zip"
+    },
+    {
+      "type": 11886,
+      "name": "星际探射灯",
+      "code": "lig0021",
+      "kind": "floor",
+      "theme": "星际未来",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/ca1141ef75221a790d1ee38195e7ffca_lig0021.zip"
+    },
+    {
+      "type": 13771,
+      "name": "紫光太空椅",
+      "code": "cha0420",
+      "kind": "floor",
+      "theme": "星际未来",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/e9e78e9f4af97d0c7ff6d699cf249289_cha0420.zip"
+    },
+    {
+      "type": 13607,
+      "name": "梦幻珊瑚花",
+      "code": "dec0702",
+      "kind": "floor",
+      "theme": "海洋假日",
+      "gridW": 1,
+      "gridH": 1,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/0ec9b6974827e072331cba88ce3fff67_dec0702.zip"
+    },
+    {
+      "type": 13877,
+      "name": "海风贝壳隔断",
+      "code": "blo0282",
+      "kind": "floor",
+      "theme": "海洋假日",
+      "gridW": 1,
+      "gridH": 8,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/86e47f9444d61c2f067542342569e816_blo0282.zip"
+    },
+    {
+      "type": 14588,
+      "name": "梦幻海底贝壳床",
+      "code": "bed0163",
+      "kind": "floor",
+      "theme": "海洋假日",
+      "gridW": 8,
+      "gridH": 6,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/dc67bef269027b2d1b725c9aab388033_bed0163.zip"
+    },
+    {
+      "type": 14168,
+      "name": "珊瑚石凳",
+      "code": "cha0479",
+      "kind": "floor",
+      "theme": "海洋假日",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/bec7958c75281cae3ba3509c8c0849d3_cha0479.zip"
+    },
+    {
+      "type": 11063,
+      "name": "白色三角钢琴",
+      "code": "lux0025",
+      "kind": "floor",
+      "theme": "音乐派对",
+      "gridW": 5,
+      "gridH": 5,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/c96f162c0cde269275c69ad3c55f9f46_lux0025.zip"
+    },
+    {
+      "type": 11363,
+      "name": "架子鼓",
+      "code": "dec0136",
+      "kind": "floor",
+      "theme": "音乐派对",
+      "gridW": 2,
+      "gridH": 4,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/b0eacb3db89c269fda20f82a1e71b90a_dec0136.zip"
+    },
+    {
+      "type": 11358,
+      "name": "黑白钢琴形沙发",
+      "code": "cha0125",
+      "kind": "floor",
+      "theme": "音乐派对",
+      "gridW": 2,
+      "gridH": 3,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/d1906e962dcb647f8296e35d45831861_cha0125.zip"
+    },
+    {
+      "type": 11942,
+      "name": "旋舞玫红吉他",
+      "code": "ele0040",
+      "kind": "floor",
+      "theme": "音乐派对",
+      "gridW": 3,
+      "gridH": 3,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/4a3a39f17f70ecc81e8f2ec130f1c826_ele0040.zip"
+    },
+    {
+      "type": 10067,
+      "name": "粉色双门冰箱",
+      "code": "ele0003",
+      "kind": "floor",
+      "theme": "日常生活",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/841f9055219f7f4ce7ec49d1288c5cba_ele0003.zip"
+    },
+    {
+      "type": 10500,
+      "name": "熊猫洗衣机",
+      "code": "ele0020",
+      "kind": "floor",
+      "theme": "日常生活",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/47d8aae88d3ed922cc81b937fce82cc9_ele0020.zip"
+    },
+    {
+      "type": 10051,
+      "name": "小马电视机",
+      "code": "ele0006",
+      "kind": "floor",
+      "theme": "日常生活",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/50c4c927f8b25fd4952352cab686e3e1_ele0006.zip"
+    },
+    {
+      "type": 10028,
+      "name": "小熊书桌",
+      "code": "tab0001",
+      "kind": "floor",
+      "theme": "日常生活",
+      "gridW": 2,
+      "gridH": 4,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/7d687ba165df555ca0d6593d4a167030_tab0001.zip"
+    }
   ]
 }
