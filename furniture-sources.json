@@ -410,5 +410,167 @@
       "part": "clot",
       "url": "https://web.picatown.com/release/res/actorCostume/girl/dd3c3442cbf60ffbc094d2373df2410d_f_clot070.zip"
     }
+  ],
+  "extra": [
+    {
+      "type": 10189,
+      "name": "月亮型躺椅",
+      "code": "dec0009",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 7,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/971a571e26060556d08268d5c1e16325_dec0009.zip"
+    },
+    {
+      "type": 10235,
+      "name": "蘑菇台灯",
+      "code": "lig0004",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/316e21f3e05d3aea3160d3c5824104bb_lig0004.zip"
+    },
+    {
+      "type": 11772,
+      "name": "紫色蘑菇桌",
+      "code": "tab0073",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 2,
+      "gridH": 4,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/9f6ac5ca94090178b829c88385398681_tab0073.zip"
+    },
+    {
+      "type": 11773,
+      "name": "红绿蘑菇柜子",
+      "code": "cab0092",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/780fb66d8219c7d7568e2b25e0e1ca0f_cab0092.zip"
+    },
+    {
+      "type": 11774,
+      "name": "粉蘑菇床",
+      "code": "bed0052",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 5,
+      "gridH": 3,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/d68338a4c5143955fb67c0e4589da1f4_bed0052.zip"
+    },
+    {
+      "type": 13374,
+      "name": "蓝蘑菇凳",
+      "code": "cha0375",
+      "kind": "floor",
+      "theme": "月光蘑菇",
+      "gridW": 2,
+      "gridH": 2,
+      "position": 1,
+      "url": "https://web.picatown.com/release/res/furni/4f2f2d185d09e15bd5bab2e0b094d070_cha0375.zip"
+    },
+    {
+      "type": 1002,
+      "name": "短耳蓝精灵",
+      "code": "npc002",
+      "kind": "character",
+      "theme": "精灵伙伴",
+      "gridW": 2,
+      "gridH": 2,
+      "url": "https://web.picatown.com/release/res/npc/ca8bc1121845df68ce83b973cb94f34f_npc002.zip"
+    },
+    {
+      "type": 1003,
+      "name": "长耳黄精灵",
+      "code": "npc003",
+      "kind": "character",
+      "theme": "精灵伙伴",
+      "gridW": 2,
+      "gridH": 2,
+      "url": "https://web.picatown.com/release/res/npc/4762f00293b0ef5fbfefc8cb2bcddb13_npc003.zip"
+    },
+    {
+      "type": 1004,
+      "name": "短耳绿精灵",
+      "code": "npc004",
+      "kind": "character",
+      "theme": "精灵伙伴",
+      "gridW": 2,
+      "gridH": 2,
+      "url": "https://web.picatown.com/release/res/npc/1c0e7143bdace9fefc4a9095a1e65243_npc004.zip"
+    },
+    {
+      "type": 1054,
+      "name": "百花精灵",
+      "code": "npc053",
+      "kind": "character",
+      "theme": "精灵伙伴",
+      "gridW": 2,
+      "gridH": 2,
+      "url": "https://web.picatown.com/release/res/npc/517515be4d5a3da2c36c12c6add97641_npc053.zip"
+    },
+    {
+      "type": 51451,
+      "name": "蝴蝶结双马尾",
+      "code": "f_hair250",
+      "part": "hair",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/0cbb51391cf0f3bea38dfd868cfdcd35_f_hair250.zip"
+    },
+    {
+      "type": 51558,
+      "name": "蓬蓬双马尾",
+      "code": "f_hair277",
+      "part": "hair",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/b1123007cf0a42493b3868b6fe7a7715_f_hair277.zip"
+    },
+    {
+      "type": 51253,
+      "name": "安娜公主发型",
+      "code": "f_hair217",
+      "part": "hair",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/8fd564535db9f147c02d84e04c203239_f_hair217.zip"
+    },
+    {
+      "type": 51252,
+      "name": "安娜公主套装",
+      "code": "f_cset206",
+      "part": "cset",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/e594e3b97d279bab2679d9b366453cf8_f_cset206.zip"
+    },
+    {
+      "type": 52252,
+      "name": "花房姑娘连衣裙",
+      "code": "f_cset384",
+      "part": "cset",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/56a4b8e1d57987e01392f6effe5e7200_f_cset384.zip"
+    },
+    {
+      "type": 50003,
+      "name": "大红POLO衫",
+      "code": "f_clot003",
+      "part": "clot",
+      "kind": "wearable",
+      "theme": "人物衣橱",
+      "url": "https://web.picatown.com/release/res/actorCostume/girl/a0894d32256749204c7a2902718e42c7_f_clot003.zip"
+    }
   ]
 }
